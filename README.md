@@ -7,4 +7,5 @@ Made using React js and gemini API
 
 
 Preview: 
-![image](https://github.com/user-attachments/assets/42fe324a-7883-4e35-b897-e1fc02d9d797)
+![image](https://github.com/user-attachments/assets/5b888fd8-8241-4e65-aebb-3a3ebf51b04f)
+
